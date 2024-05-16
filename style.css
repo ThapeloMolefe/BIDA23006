@@ -1,0 +1,167 @@
+
+.iceberg-regular {
+    font-family: "Iceberg", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  /* Change color on hover */
+  h1:hover{
+    transition: 2s;
+    font-family: "iceberg", sans-serif;
+    background-color:rgb(215, 19, 19) ;
+  }
+  
+
+h2{
+ color: rgb(215, 19, 19);
+ font-family: "iceberg", sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 50px;
+ text-align: center;
+ 
+}
+h3{
+    color:rgb(215, 19, 19);
+font-family: "iceberg", sans-serif;
+font-size: 40px;
+text-align: justify;
+
+}
+
+h5{
+    color: rgb(215, 19, 19);
+    font-family: "iceberg", sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 50px;
+    
+
+}
+
+
+body{
+background-color: rgb(20, 20, 20);
+}
+
+.navbar{
+    background-color: rgb(42, 42, 42);
+    padding-left: 10px;
+    padding-right: 10px;
+   
+}
+
+.navdiv{
+    display: flex;
+     align-items: center;
+}
+
+.logo {
+    font-size: 20px; font-weight: 200; color:rgb(215, 19, 19); 
+    font-family: "iceberg", sans-serif;
+   
+}
+/* CSS to arrange the images in rows and columns */
+img{
+ 
+    align-items: center;
+    display: inline-block;
+}
+li{
+    list-style:none;
+     display: inline-block;
+     padding: 20px;
+}
+li a{
+    text-decoration: none;
+    font-size: 18px; font-weight: 50;
+     color:rgb(215, 19, 19) ;
+     font-family:"iceberg", sans-serif ;
+}
+h1{
+ color: gold;
+ text-align: left;
+}
+p{
+color: antiquewhite;
+font-size: 18px;
+font-family: "iceberg", sans-serif;
+padding: 0px;
+
+}
+
+/* CSS to arrange the images in rows and columns */
+.movies{
+  font-family:  "iceberg", sans-serif;
+padding: 10px;
+
+display: inline-block;
+}
+/* Change color on hover */
+.navbar a:hover {
+    transition: 2s;
+background-color: gold;
+     
+}
+h4{
+    font-size: 30px;
+    color: gold;
+    font-family: "iceberg", sans-serif;
+}
+.trailer{
+ align-items: center;
+ float: left;
+ padding-left: 5px;
+ padding-right: 5px;
+ padding-bottom: 0px;
+ margin-left: 3px;
+ margin-right: 5px;
+
+}
+
+/* CSS to arrange the images in rows and columns */
+.tvshows{
+    font-family: "iceberg", sans-serif;
+    display: inline-block;
+    padding: 15px;
+}
+
+/* CSS to arrange the images in rows and columns */
+.apps{
+
+    font-family: "iceberg", sans-serif;
+    display: inline-block;
+    padding: 15px;
+
+}
+.footercontainer{
+
+background-color: rgb(42, 42, 42);
+padding-left: 10px;
+padding-right: 10px;
+}
+.search-form input[type="text"]{
+
+    padding: 10px;
+    font-size: 15px;
+    border: 5px; 
+    border-radius: 15px;
+   
+    
+
+}
+
+.search-form button {
+padding: 10px;
+font-size: 15px;
+background-color :rgb(215, 19, 19) ;
+
+border-radius: 15px;
+cursor: pointer;
+
+}
+
+.search-form{
+    align-items: end;
+}
